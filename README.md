@@ -6,7 +6,11 @@ Agora é a sua hora de brilhar e construir um perfil de destaque na DIO! Explore
 
 Já dominamos o universo do desenvolvimento Python e projeto "Criando um Sistema Bancário com Python" oferece uma experiência prática de desenvolvimento de software financeiro. Os participantes construirão um sistema completo, abordando funcionalidades como criação de contas, transações e segurança. É uma oportunidade para aprimorar habilidades de programação Python e compreender conceitos financeiros e de segurança.
 
-## Desafio 2 Otimizando o Sistema Bancário com Funções Python
+## Desafio 2 - Otimizando o Sistema Bancário com Funções Python
 Nesta segunda parte do desafio vou ataualizar a versão 1 do Sistema bancário agora usando Funções em Python.
 
 [1]: https://web.dio.me/ "Bootcamp DIO"
+
+## Desafio 3 - Modelando o Sistema Bancário em POO com Python
+Nesta etapa estou aplicando os conhecimentos sobre orientação a objetos e atualizado o desafio anterios, agora para usar classes e metodos.
+Essa etapa foi bem desafiadora e me trouxe bastante conhecimento.
